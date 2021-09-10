@@ -17,4 +17,4 @@ The main idea of said redesign was to give access to popular and unpopular sport
 
 This project was made using CSS, HTML, JavaScript and JQuery.
 
-This project has an educational objective only, not being used commercially.
+This project has an educational purpose only, not being used commercially.
