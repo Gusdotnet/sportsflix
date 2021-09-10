@@ -7,6 +7,8 @@ A ideia do redesign foi de ter acesso à esportes conhecidos e outros nem tanto 
 
 Projeto criado usando as tecnologias CSS, HTML, JavaScript e JQuery.
 
+Esse projeto tem apenas objetivo educacional, não sendo usado para fins comerciais.
+
 EN:
 
 This project was developed as part of the Front-End development course directed by Digital Innovation One, with the objective of redesigning "Netflix's" landing page.
@@ -14,3 +16,5 @@ This project was developed as part of the Front-End development course directed 
 The main idea of said redesign was to give access to popular and unpopular sports so people can discover new passions and hobbies.
 
 This project was made using CSS, HTML, JavaScript and JQuery.
+
+This project has educational objective only, not being used commercially.
